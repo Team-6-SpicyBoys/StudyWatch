@@ -21,5 +21,4 @@ Voor variabelen wordt gebruikt gemaakt van camel casing (voorbeeldVariabele).
 * **Coen Modderman** - *Werkzaamheden*
 * **Darrel Mungra** - *Werkzaamheden*
 * **Demy Danielsson** - *Werkzaamheden*
-* **Esmayl Mourad** - *Docent UI*
 * **Michel Bulten** - *Werkzaamheden*
